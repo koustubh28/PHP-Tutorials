@@ -39,7 +39,7 @@ class manager extends employee {
 $emp1 = new employee("Koustubh", 28, 25000);
 $emp1->info();
 
-$emp2 = new manager("Ram Kishan", 25, 10000);
-$emp2->info();
+$mng1 = new manager("Ram Kishan", 25, 10000);
+$mng1->info();
 
 ?>
